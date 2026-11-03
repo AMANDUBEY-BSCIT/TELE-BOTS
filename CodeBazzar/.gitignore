@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+instance/*.db
+instance/*.db-*
+instance/*.sqlite
+instance/*.sqlite-*
+instance/*.sqlite3
+instance/*.sqlite3-*
+media/qr_code/*
